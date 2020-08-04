@@ -11,7 +11,7 @@ api_configs = {
 file_path = '<YOUR_WAV_FILE_PATH>'
 
 # Buffer Chunk size
-BUFFER_CHUNK = 100 * 1000
+BUFFER_CHUNK = 16 * 1000
 # Buffer Sending Interval
 BUFFER_INTERVAL = 1
 
