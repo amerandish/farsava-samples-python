@@ -1,6 +1,7 @@
 
 # Farsava - ASR live Api (WebSocket)
 
+First create an `API KEY` from [here](https://panel.amerandish.com/)
 
 ## install dependencies
 

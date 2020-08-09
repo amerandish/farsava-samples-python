@@ -1,6 +1,7 @@
 
 # Farsava - Health Api
 
+First create an `API KEY` from [here](https://panel.amerandish.com/)
 
 ## install dependencies
 

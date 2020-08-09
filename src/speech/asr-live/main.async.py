@@ -23,6 +23,7 @@ async def consumer_handler(websocket):
     print('consumer')
     async for message in websocket:
         if message.type in (aiohttp.WSMsgType.CLOSED, aiohttp.WSMsgType.ERROR):
+            # you can store your state
             break
         try:
             msg = message.json()
